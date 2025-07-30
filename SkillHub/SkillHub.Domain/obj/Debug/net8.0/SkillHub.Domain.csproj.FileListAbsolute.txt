@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\bin\Debug\net8.0\SkillHub.Domain.deps.json
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\bin\Debug\net8.0\SkillHub.Domain.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\bin\Debug\net8.0\SkillHub.Domain.pdb
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.AssemblyInfo.cs
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.sourcelink.json
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\refint\SkillHub.Domain.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\SkillHub.Domain.pdb
+C:\Users\USER\Desktop\SkillHub\SkillHub.Domain\obj\Debug\net8.0\ref\SkillHub.Domain.dll

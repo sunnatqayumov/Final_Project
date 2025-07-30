@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\bin\Debug\net8.0\SkillHub.Infrastructure.deps.json
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\bin\Debug\net8.0\SkillHub.Infrastructure.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\bin\Debug\net8.0\SkillHub.Infrastructure.pdb
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\bin\Debug\net8.0\SkillHub.Domain.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\bin\Debug\net8.0\SkillHub.Domain.pdb
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.sourcelink.json
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.C04D6124.Up2Date
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\refint\SkillHub.Infrastructure.dll
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\SkillHub.Infrastructure.pdb
+C:\Users\USER\Desktop\SkillHub\SkillHub.Infrastructure\obj\Debug\net8.0\ref\SkillHub.Infrastructure.dll

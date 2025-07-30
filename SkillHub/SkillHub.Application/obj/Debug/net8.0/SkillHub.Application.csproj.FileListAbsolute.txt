@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.AssemblyInfo.cs
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SkillHub\SkillHub.Application\obj\Debug\net8.0\SkillHub.Application.sourcelink.json

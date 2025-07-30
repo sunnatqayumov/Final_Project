@@ -10,5 +10,4 @@ public interface IMentorshipSessionService
     Task<bool> DeleteAsync(int id);
     Task<bool> UpdateAsync(int id, MentorshipSessionCreateDto dto);
     Task<IEnumerable<MentorshipSession>> GetFilteredAsync(List<string>? tags = null);
-
 }

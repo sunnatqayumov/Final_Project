@@ -3,7 +3,7 @@ using SkillHub.Models;
 
 namespace SkillHub.Infrastructure.Data;
 
-public class SkillHubDbContext(DbContextOptions<SkillHubDbContext> options) : DbContext(options), DbContext
+public class SkillHubDbContext(DbContextOptions<SkillHubDbContext> options) : DbContext(options)
 {
     public DbSet<User> Users => Set<User>();
     public DbSet<MentorshipSession> MentorshipSessions => Set<MentorshipSession>();
